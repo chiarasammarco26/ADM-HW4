@@ -14,3 +14,5 @@ Giovanni Sciocchetti
 Matricola: 2074961
 
 ### File Description:
+
+Questions 1 and 2 are in seperate notebooks as stated, this is also the case for the algorithm question and the command line question.
